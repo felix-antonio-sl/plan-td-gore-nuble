@@ -779,11 +779,13 @@ La estimación presupuestaria preliminar para el trienio 2026-2028, sujeta a for
 El presupuesto de inversión FNDR del Gobierno Regional de Ñuble para el año 2024 fue de aproximadamente $64.000 millones. La inversión trianual propuesta de **$1.000 millones** (un mil millones) representa aproximadamente el **1,5% del presupuesto de inversión anual**, un porcentaje razonable y estratégicamente justificado para un eje habilitador transversal de toda la gestión institucional.
 
 **Lógica de Distribución Temporal:**
+
 - **Año 1 (2026):** $300M — Instalación de gobernanza, quick wins, infraestructura base.
 - **Año 2 (2027):** $400M (40% del total) — Pico de inversión durante construcción intensiva de NEXO GORE y Mi Ñuble.
 - **Año 3 (2028):** $300M — Consolidación, transferencia de conocimiento, operación estabilizada.
 
 **Distribución por Categoría de Gasto (Fracciones Simples):**
+
 - **Desarrollo de EVs:** 50% ($500M) — Construcción de las 5 plataformas principales.
 - **Programa Habilitante:** 30% ($300M) — Equipo ODIA, gobernanza, coordinación.
 - **Infraestructura Tecnológica:** 15% ($150M) — Servidores, cloud, licencias, almacenamiento.
@@ -802,6 +804,7 @@ Esta inversión **no compite** con la inversión sectorial en salud, educación,
 | **TOTAL** | **$300.000.000** | **$400.000.000** | **$300.000.000** | **$1.000.000.000** | **100%** |
 
 **Proporciones Memorables:**
+
 - Programas y Proyectos: **2/5 cada uno** (40% + 40% = 80% del total FNDR)
 - Convenios y FRPD: **1/10 cada uno** (10% + 10% = 20% de fuentes complementarias)
 - Año pico de inversión: Año 2 representa **2/5 del total trianual** ($400M de $1.000M)
