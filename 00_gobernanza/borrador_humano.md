@@ -1169,7 +1169,7 @@ Para cumplir la Ley 21.719 al publicar datos abiertos o compartir datos con terc
 
 **Fin del Documento Principal**
 
-**Próximos Pasos:** Sujeto a la aprobación de la Alta Dirección, el Coordinador de Transformación Digital designado convocará la primera sesión constitutiva del Comité de Transformación Digital para iniciar formalmente la ejecución del Horizonte H1 del Plan de Transformación Digital del Gobierno Regional de Ñuble 2026-2028.
+**Próximos Pasos:** Sujeto a la aprobación del Gobernador Regional, el Coordinador de Transformación Digital designado convocará la primera sesión constitutiva del Comité de Transformación Digital para iniciar formalmente la ejecución del Horizonte H1 del Plan de Transformación Digital del Gobierno Regional de Ñuble 2026-2028.
 
 ---
 
