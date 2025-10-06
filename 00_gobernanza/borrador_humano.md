@@ -736,28 +736,147 @@ Adicionalmente, se propone la formulación de un **Programa Habilitante de Gober
 
 La estimación presupuestaria preliminar para el trienio 2026-2028, sujeta a formulación técnica detallada y aprobación del Consejo Regional, es la siguiente:
 
-| Año | Programa Habilitante | Desarrollo de EVs | Infraestructura Tecnológica | Capacitación | Total Estimado |
+| Año | Programa Habilitante | Desarrollo de EVs | Infraestructura | Capacitación | Total Anual |
 |:---|---:|---:|---:|---:|---:|
-| **2026** | $80.000.000 | $120.000.000 | $50.000.000 | $20.000.000 | **$270.000.000** |
-| **2027** | $100.000.000 | $180.000.000 | $40.000.000 | $30.000.000 | **$350.000.000** |
-| **2028** | $120.000.000 | $150.000.000 | $40.000.000 | $35.000.000 | **$345.000.000** |
-| **Total 3 años** | $300.000.000 | $450.000.000 | $130.000.000 | $85.000.000 | **$965.000.000** |
+| **2026** | $27.000.000 | $45.000.000 | $15.000.000 | $3.000.000 | **$90.000.000** |
+| **2027** | $36.000.000 | $60.000.000 | $18.000.000 | $6.000.000 | **$120.000.000** |
+| **2028** | $27.000.000 | $45.000.000 | $15.000.000 | $3.000.000 | **$90.000.000** |
+| **TOTAL 3 años** | $90.000.000 | $150.000.000 | $48.000.000 | $12.000.000 | **$300.000.000** |
+| **Porcentaje** | **30%** | **50%** | **16%** | **4%** | **100%** |
 
 ##### Contexto Presupuestario
 
-El presupuesto de inversión FNDR del Gobierno Regional de Ñuble para el año 2024 fue de aproximadamente $64.000 millones. La inversión trianual propuesta de $965 millones representa aproximadamente el 1,5% del presupuesto de inversión anual promedio, un porcentaje razonable y estratégicamente justificado para un eje habilitador de toda la gestión institucional como lo es la modernización digital.
+El presupuesto de inversión FNDR del Gobierno Regional de Ñuble para 2024 fue de ~$64.000 millones.
 
-Esta inversión no compite con la inversión sectorial en salud, educación, infraestructura o desarrollo social; es una inversión que **potencia la eficiencia y efectividad de toda inversión sectorial** al proveer sistemas que agilizan procesos, reducen errores, generan inteligencia para priorización y transparentan el uso de recursos públicos.
+**Inversión propuesta:** $300 millones en 3 años  
+**Porcentaje del FNDR anual:** ~0,5% (cinco décimas del uno por ciento)  
+**Característica:** Inversión conservadora pero estratégicamente eficiente
 
-##### Distribución por Fuente de Financiamiento
+Este plan capitaliza el hecho de que el GORE **ya posee capacidades operativas probadas**:
 
-| Fuente | Año 2026 | Año 2027 | Año 2028 | Total Trianual | Porcentaje |
-|:---|---:|---:|---:|---:|---:|
-| FNDR - Subtítulo 24 (Programas) | $90.000.000 | $130.000.000 | $195.000.000 | $415.000.000 | 43% |
-| FNDR - Subtítulo 31/33 (Proyectos) | $120.000.000 | $180.000.000 | $100.000.000 | $400.000.000 | 41% |
-| Convenios Sectoriales | $10.000.000 | $20.000.000 | $20.000.000 | $50.000.000 | 5% |
-| FRPD (Productividad) | $50.000.000 | $20.000.000 | $30.000.000 | $100.000.000 | 10% |
-| **TOTAL** | **$270.000.000** | **$350.000.000** | **$345.000.000** | **$965.000.000** | 100% |
+- 5 asistentes de IA en producción (no requieren inversión en I+D inicial)
+- Repositorio de >60 artefactos de conocimiento curados (base de datos lista)
+- Framework ASTA-Kore desarrollado (metodología sin costo adicional)
+- Prototipos validados de integración con sistemas nacionales
+
+**Por lo tanto, la inversión NO es para experimentación sino para:**
+
+1. Formalización institucional (gobernanza, equipo permanente)
+2. Industrialización de capacidades artesanales (escalar de prototipos a producción)
+3. Desarrollo incremental enfocado en MVPs (Minimum Viable Products)
+
+### Distribución por Categoría (Fracciones Simples)
+
+#### 1. Desarrollo de EVs: 50% ($150M) — 1/2 del total
+
+Enfoque: Desarrollo lean y ágil, priorizando módulos de mayor ROI inmediato.
+
+Distribución:
+
+- **NEXO GORE (Módulos prioritarios):** $75M (50% del desarrollo)
+  - Módulo 1 (IPR): $25M
+  - Módulo 3 (Rendiciones con Pre-Auditor IA): $20M
+  - Módulo 6 (BI/Observatorio): $15M
+  - Módulos 2, 4, 5, 7: $15M (desarrollo incremental)
+
+- **Mi Ñuble (MVP ágil):** $40M
+  - Backend + API: $15M
+  - App móvil (React Native): $20M
+  - Testing y despliegue: $5M
+
+- **IDE Ñuble (Open-source Geonodo):** $15M
+  - Configuración y datasets: $10M
+  - Integración y capacitación: $5M
+
+- **CIES-SITIA + Gobernanza TD:** $20M
+  - Integración técnica CIES-SITIA: $12M
+  - Mesa Regional TD (coordinación): $8M
+
+#### 2. Programa Habilitante: 30% ($90M) — Casi 1/3 del total
+
+Equipo reducido y crecimiento gradual:
+
+- **Año 1:** Coordinador TD + 1 ingeniero senior (costo anual ~$27M)
+- **Año 2:** +1 ingeniero (equipo de 3, costo ~$36M)
+- **Año 3:** Equipo estable 3 personas (costo ~$27M)
+
+Incluye: remuneraciones (honorarios Subt. 21), gastos operativos mínimos, coordinación CTD.
+
+#### 3. Infraestructura Tecnológica: ~1/6 del total ($48M)
+
+Estrategia: **Cloud-first con pay-as-you-go, preferencia open-source**
+
+- Servidores virtuales cloud (Google Cloud / AWS): $18M
+- Bases de datos gestionadas (PostgreSQL, MongoDB): $12M
+- Almacenamiento y CDN: $8M
+- Licencias software (mínimas, priorizando open-source): $6M
+- Ciberseguridad (herramientas, monitoreo): $4M
+
+#### 4. Capacitación: ~1/25 del total ($12M)
+
+Enfoque focalizado:
+
+- Formación intensiva del Equipo Campeón (4-6 funcionarios): $5M
+- Talleres para funcionarios GORE (nivel fundacional): $3M
+- Capacitación municipal (Mesa Regional TD): $4M
+
+### Distribución por Fuente de Financiamiento
+
+| Fuente | Año 2026 | Año 2027 | Año 2028 | Total 3 años | Fracción |
+|:---|---:|---:|---:|---:|:---:|
+| **FNDR - Subtítulo 24** (Programas) | $36.000.000 | $48.000.000 | $36.000.000 | **$120.000.000** | **2/5 (40%)** |
+| **FNDR - Subtítulo 31/33** (Proyectos) | $36.000.000 | $48.000.000 | $36.000.000 | **$120.000.000** | **2/5 (40%)** |
+| **Convenios Sectoriales** (SITIA) | $9.000.000 | $12.000.000 | $9.000.000 | **$30.000.000** | **1/10 (10%)** |
+| **FRPD** (Productividad/Innovación) | $9.000.000 | $12.000.000 | $9.000.000 | **$30.000.000** | **1/10 (10%)** |
+| **TOTAL** | **$90.000.000** | **$120.000.000** | **$90.000.000** | **$300.000.000** | **100%** |
+
+### Distribuciones
+
+**Distribución Temporal: Pattern 3-4-3**
+
+- Año 1: $90M (30% del total = casi 1/3)
+- Año 2: $120M (40% del total = 2/5, año pico)
+- Año 3: $90M (30% del total = casi 1/3)
+
+**Distribución por Fuente: Pattern 40-40-10-10**
+
+- FNDR Programas (Subt. 24): 2/5 (40%)
+- FNDR Proyectos (Subt. 31/33): 2/5 (40%)
+- Convenios Sectoriales: 1/10 (10%)
+- FRPD: 1/10 (10%)
+
+**Distribución por Categoría: Pattern 50-30-16-4**
+
+- Desarrollo: 1/2 (50%)
+- Programa Habilitante: 3/10 (30%)
+- Infraestructura: ~1/6 (16%)
+- Capacitación: ~1/25 (4%)
+
+### Estrategias de Optimización Aplicadas
+
+**1. Capitalización de Activos Existentes**
+
+- Los 5 asistentes de IA YA están operativos → No se invierte en I+D inicial de IA.
+- Repositorio de conocimiento YA está curado → No se invierte en creación de base de conocimiento.
+- Framework ASTA-Kore YA está diseñado → No se paga consultoría metodológica.
+
+**2. Enfoque Open-Source First**
+
+- Geonodo (IDE Ñuble): Software libre vs licencias GIS propietarias (ahorro ~$30M).
+- Metabase (BI): Software libre vs Power BI o Tableau (ahorro ~$15M).
+- PostgreSQL, MongoDB: Bases de datos open-source vs Oracle (ahorro ~$20M).
+
+**3. Equipo Reducido y Crecimiento Gradual**
+
+- Inicio con 2 personas (Coordinador + 1 ingeniero) vs equipo de 5-6 desde día 1.
+- Crecimiento a 3 personas en año 2, estabilización en año 3.
+- Ahorro ~$60M en costos de personal vs escenario completo.
+
+**4. Infraestructura Cloud Pay-as-You-Go**
+
+- Sin inversión en datacenter propio o servidores físicos.
+- Pago por uso real, escalamiento elástico según demanda.
+- Ahorro ~$100M vs infraestructura on-premise.
 
 #### 8.3. Criterios de Priorización de Inversión
 
@@ -831,7 +950,7 @@ El plan se someterá a evaluación en tres niveles temporales que aseguran apren
 
 #### 10.1. Decisiones Solicitadas a la Alta Dirección
 
-Este Plan de Transformación Digital del Gobierno Regional de Ñuble 2026-2028 se presenta formalmente para la consideración y aprobación de la Alta Dirección. Se solicita que el Gobernador Regional, en coordinación con la Administradora Regional y previa consulta al Consejo Regional según corresponda, tome las siguientes cuatro decisiones fundamentales:
+Este Plan de Transformación Digital del Gobierno Regional de Ñuble 2026-2028 se presenta formalmente para la consideración y aprobación deL Gobernador y Jefes de División. Se solicita que el Gobernador Regional, en coordinación con la Administradora Regional, tome las siguientes cuatro decisiones fundamentales:
 
 ##### Decisión 1: Aprobación del Plan Maestro
 
@@ -843,7 +962,7 @@ Autorizar la emisión de una Resolución Exenta que constituye formalmente el Co
 
 ##### Decisión 3: Aprobación de Recursos para Año 1 (2026)
 
-Autorizar a la División de Planificación y Desarrollo Regional la formulación del "Programa Habilitante de Gobernanza de Transformación Digital e Inteligencia Artificial" como Programa Público Regional vía Glosa 06 de la Ley de Presupuestos, para su presentación al Consejo Regional en el ciclo presupuestario correspondiente. Monto referencial del Año 1: $270 millones.
+Autorizar a la División de Planificación y Desarrollo Regional la formulación del "Programa Habilitante de Gobernanza de Transformación Digital e Inteligencia Artificial" como Programa Público Regional vía Glosa 06 de la Ley de Presupuestos, para su presentación al Consejo Regional en el ciclo presupuestario correspondiente. Monto referencial del Año 1: $90 millones.
 
 ##### Decisión 4: Mandato de Ejecución Inmediata de Quick Wins
 
@@ -855,13 +974,13 @@ La transformación digital del Estado no es una opción estratégica entre varia
 
 Este plan ofrece una ruta concreta, gobernable, de alto valor público y técnicamente rigurosa para cumplir ese mandato obligatorio, con la ventaja estratégica de capitalizar capacidades que el GORE ya posee y que ningún otro gobierno regional del país ha desarrollado: cinco asistentes de inteligencia artificial en producción con evidencia de valor medible, un marco metodológico propio creado en dieciocho meses de investigación aplicada, y un repositorio de más de sesenta documentos de conocimiento institucional curado.
 
-La inversión solicitada de $965 millones en tres años —aproximadamente el 1,5% del presupuesto anual de inversión FNDR— no es para experimentar con tecnologías inciertas, sino para proteger, formalizar y escalar activos estratégicos que ya están generando valor pero que operan de manera informal y vulnerable. Es una inversión de capitalización, no de especulación.
+La inversión solicitada de $965 millones en tres años —aproximadamente < 0,5% del presupuesto anual de inversión FNDR— no es para experimentar con tecnologías inciertas, sino para proteger, formalizar y escalar activos estratégicos que ya están generando valor pero que operan de manera informal y vulnerable. Es una inversión de capitalización, no de especulación.
 
 La decisión que se presenta a la Alta Dirección no es entre transformarse digitalmente o no hacerlo, sino entre liderar la transformación de forma estratégica, proactiva y coherente, capitalizando un ecosistema único que puede posicionar a Ñuble como referente nacional en modernización del Estado regional, o reaccionar de forma fragmentada, táctica y riesgosa, permitiendo que capacidades estratégicas ya construidas se evaporen por falta de institucionalización.
 
 ## ANEXOS TÉCNICOS (Resúmenes Ejecutivos)
 
-Los siguientes anexos proveen el nivel de detalle operativo y técnico necesario para la implementación gobernada del plan. Se presentan aquí en versión resumida; los documentos completos se encuentran disponibles en `/00_gobernanza/anexos_plan_td/`.
+Los siguientes anexos proveen el nivel de detalle operativo y técnico necesario para la implementación gobernada del plan. Se presentan aquí en versión resumida; los documentos completos se encuentran disponibles en [`/00_gobernanza/anexos_plan_td/`](https://github.com/felix-antonio-sl/plan-td-gore-nuble/tree/main/00_gobernanza/anexos_plan_td).
 
 ---
 
