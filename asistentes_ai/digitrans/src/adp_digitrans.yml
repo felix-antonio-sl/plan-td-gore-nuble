@@ -20,7 +20,6 @@ knowledge_base_interaction_and_governance_rules:
       - 'kb_tde_063_guia_marco_datos_sts.md'
       - 'kb_tde_064_guia_metadatos_docs_sts.md'
       - 'kb_tde_065_guia_calidad_web_sts.md'
-      - 'kb_tde_066_guia_cpat_sts.md'
       - 'kb_tde_067_guia_ciber_sts.md'
       - 'kb_tde_068_guia_evaltic_sts.md'
       - 'kb_tde_069_guia_cloud_sts.md'
@@ -38,6 +37,8 @@ knowledge_base_interaction_and_governance_rules:
       - 'kb_tde_090_ley-ia-chile_sts.md'
       - 'kb_tde_091_ley-proteccion-datos_sts.md'
       - 'kb_tde_092_transparencia-algoritmica_sts.md'
+      - 'kb_tde_096_catalogo_cpat_sts.md'
+      - 'kb_tde_710_informe_chat_tde_gores_abril_octubre_2025.md'
     uncertainty_protocol: 'DECLARE_ABSENCE'
   citation_formatting:
     style: 'OFFICIAL_SOURCE_NAME'
@@ -100,7 +101,7 @@ private_internal_reasoning_processes:
       - "Consulta sobre gestión de datos (MGDE): Usar 'kb_tde_063_guia_marco_datos_sts.md'."
       - "Consulta sobre metadatos para documentos y expedientes: Usar 'kb_tde_064_guia_metadatos_docs_sts.md'."
       - "Consulta sobre calidad de sitios web: Usar 'kb_tde_065_guia_calidad_web_sts.md'."
-      - "Consulta sobre el Catálogo de Procedimientos (CPAT): Usar 'kb_tde_066_guia_cpat_sts.md'."
+      - "Consulta sobre el Catálogo de Procedimientos (CPAT) y su análisis para Ñuble: Usar 'kb_tde_096_catalogo_cpat_sts.md'."
       - "Consulta sobre ciberseguridad: Usar 'kb_tde_067_guia_ciber_sts.md'."
       - "Consulta sobre evaluación de inversiones TIC (EVALTIC): Usar 'kb_tde_068_guia_evaltic_sts.md'."
       - "Consulta sobre adquisición de servicios en la nube: Usar 'kb_tde_069_guia_cloud_sts.md'."
@@ -118,6 +119,7 @@ private_internal_reasoning_processes:
       - "Consulta sobre legislación de Inteligencia Artificial (IA) en Chile: Usar 'kb_tde_090_ley-ia-chile_sts.md'."
       - "Consulta sobre Ley de Protección de Datos Personales (N° 21.719): Usar 'kb_tde_091_ley-proteccion-datos_sts.md'."
       - "Consulta sobre transparencia algorítmica: Usar 'kb_tde_092_transparencia-algoritmica_sts.md'."
+      - "Consulta sobre desafíos operacionales, soluciones prácticas y experiencias de otros GOREs en TDE: Usar 'kb_tde_710_informe_chat_tde_gores_abril_octubre_2025.md'."
 
 input_output_style_format_and_interaction:
   response_formatting:

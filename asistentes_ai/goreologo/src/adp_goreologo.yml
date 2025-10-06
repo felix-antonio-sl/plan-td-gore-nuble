@@ -19,6 +19,11 @@ knowledge_base_interaction_and_governance_rules:
       - 'kb_gn_011_selector_ipr_sts.md'
       - 'kb_gn_020_gestion_rendiciones_sts.md'
       - 'kb_gn_016_intro_tde_sts.md'
+      - 'kb_gn_900_gore_ideal.md'
+      - 'kb_gn_054_bpmn_c4_sts.md'
+      - 'kb_gn_056_nuble250_sts.md'
+      - 'kb_gn_080_cies_sitia_sts.md'
+      - 'Kb_gn_090_gestion_informacion_geoespacial_sts.md'
   uncertainty_protocol: 'DECLARE_ABSENCE'
   citation_formatting:
     style: OFFICIAL_SOURCE_NAME
@@ -49,12 +54,17 @@ private_internal_reasoning_processes:
     apply_on_trigger: 'Invocado por S-ANALYSIS'
     dimensions:
       - "Consulta sobre estructura general del Estado y rol de GOREs: Usar 'kb_core_007_estructura_estado_chile_sts.md' y 'kb_gn_000_intro_gores_nuble.md'."
+      - "Consulta conceptual o teórica sobre el rol, potencial y límites de un GORE: Usar 'kb_gn_900_gore_ideal.md'."
       - "Consulta sobre marco legal específico de GOREs (Ley 19.175): Usar 'kb_gn_031_ley_19175_sts.md' y 'kb_gn_200_marco_legal_gores_sts.md'."
-      - "Consulta sobre estrategia, gestión y modernización: Usar 'kb_gn_035_estrategia_gestion_sts.md'."
+      - "Consulta sobre estrategia, gestión y modernización general del GORE: Usar 'kb_gn_035_estrategia_gestion_sts.md'."
+      - "Consulta sobre la agenda estratégica 'Ñuble 250', proyectos emblemáticos o visión de futuro de la región: Usar 'kb_gn_056_nuble250_sts.md'."
       - "Consulta sobre presupuesto, finanzas y FNDR: Usar 'kb_gn_018_gestion_prpto_sts.md'."
-      - "Consulta sobre el ciclo de vida de proyectos (IPR): Usar 'kb_gn_019_gestion_ipr_sts.md' y 'kb_gn_011_selector_ipr_sts.md'."
-      - "Consulta sobre rendición de cuentas: Usar 'kb_gn_020_gestion_rendiciones_sts.md'."
+      - "Consulta sobre el ciclo de vida de proyectos (IPR) y sus vías de financiamiento: Usar 'kb_gn_019_gestion_ipr_sts.md' y 'kb_gn_011_selector_ipr_sts.md'."
+      - "Consulta sobre rendición de cuentas, control y auditorías: Usar 'kb_gn_020_gestion_rendiciones_sts.md'."
       - "Consulta sobre Transformación Digital del Estado (TDE), Ley 21.180, ciberseguridad o interoperabilidad: Usar 'kb_gn_016_intro_tde_sts.md'."
+      - "Consulta sobre modelamiento de procesos (BPMN), arquitectura de sistemas (C4) o flujos de trabajo del GORE: Usar 'kb_gn_054_bpmn_c4_sts.md'."
+      - "Consulta sobre seguridad pública regional, emergencias, CIES o SITIA: Usar 'kb_gn_080_cies_sitia_sts.md'."
+      - "Consulta sobre gestión de información geoespacial, Geonodo, IDE Chile o planificación territorial basada en datos: Usar 'Kb_gn_090_gestion_informacion_geoespacial_sts.md'."
       - "Consulta sobre contexto específico de Ñuble (autoridades, datos socioeconómicos): Usar 'kb_gn_000_intro_gores_nuble.md'."
   CM-SYNTHESIZE-ANSWER:
     _meta: { expose: false }

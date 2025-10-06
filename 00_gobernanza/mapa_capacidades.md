@@ -1,84 +1,50 @@
-# Mapa de Capacidades del GORE Ñuble
+## Mapa de Capacidades v1.0 - GORE Ñuble
 
-_Versión 2.0 - Aprobado_
-
-Este documento identifica y describe las macro-capacidades fundamentales del Gobierno Regional de Ñuble, clasificadas en Misionales y Habilitantes. Sirve como el artefacto central para el diagnóstico estratégico y la priorización de iniciativas de transformación.
-
----
-
-## Anclaje Regulatorio Transversal
-
-_Normas que condicionan la totalidad de la operación del GORE._
-
-- **Ley N° 18.575 (LOCBGAE):** Principios de probidad, eficiencia, eficacia y coordinación.
-- **Ley N° 20.285 (Transparencia):** Obligaciones de Transparencia Activa y Pasiva.
-- **Ley N° 21.719 (Protección de Datos Personales):** Regula el tratamiento de datos personales y crea la Agencia de Protección de Datos Personales (APDP). _(Vigencia diferida)_.
-- **Ley N° 20.730 (Lobby):** Regulación de la interacción con gestores de interés.
-- **Ley N° 10.336 (Orgánica CGR):** Facultades de control de legalidad y auditoría de la Contraloría.
-- **Ley N° 21.659 (Seguridad Privada):** Obligaciones como entidad obligada y organizador de eventos.
-
-## Matriz de Evaluación Estratégica
-
-| ID | Capacidad | Madurez (1-5) | Criticidad (1-5) | Brecha (C-M) | Foco Estratégico |
-| :--- | :--- | :---: | :---: | :---: | :--- |
-| **CAP-06** | **Liderazgo en TD e Innovación** | **1** | **5** | **+4** | **Máxima Prioridad** |
-| **CAP-02** | **Gestión Integral del Ciclo de Inversión** | **2** | **5** | **+3** | **Modernizar Urgentemente** |
-| **CAP-07** | **Soporte Institucional y Excelencia Op.** | **2** | **5** | **+3** | **Habilitador Crítico** |
-| CAP-01 | Planificación Territorial Estratégica | 3 | 5 | +2 | Optimizar |
-| CAP-03 | Fomento Productivo, Innovación y Comp. | 3 | 5 | +2 | Optimizar |
-| CAP-05 | Gobernanza Regional y Liderazgo Político | 3 | 5 | +2 | Optimizar |
-| CAP-04 | Articulación para el Desarrollo Social | 3 | 4 | +1 | Mantener y Mejorar |
+Fecha: 2025-10-06
+Participantes: Gabinete Regional (Gobernador, Administradora, Jefes de División)
 
 ---
 
-## A. Capacidades Misionales
+### Propósito
 
-_Entregan valor público directo a la ciudadanía y al territorio._
-
-### CAP-01: Planificación Territorial Estratégica
-
-- **Descripción:** Diseñar y orientar el desarrollo futuro de la región de manera integral y sostenible.
-- **Anclaje Regulatorio:** LOC GORE (Ley 19.175), PROT, ERD.
-
-### CAP-02: Gestión Integral del Ciclo de Inversión Pública
-
-- **Descripción:** Traducir estrategias en obras y programas concretos, gestionando el ciclo de vida completo de una iniciativa de inversión.
-- **Anclaje Regulatorio:** LOC GORE, Ley 20.530, Ley de Presupuestos, Normativa SNI, Res. 30 CGR.
-
-### CAP-03: Fomento Productivo, Innovación y Competitividad
-
-- **Descripción:** Impulsar y diversificar la matriz económica regional.
-- **Anclaje Regulatorio:** LOC GORE (Art. 18), Ley de Royalty (FRPD), Política Regional de CTI.
-
-### CAP-04: Articulación para el Desarrollo Social y Humano
-
-- **Descripción:** Promover la cohesión social y la equidad.
-- **Anclaje Regulatorio:** LOC GORE (Art. 19), Ley del Deporte, Ley de Donaciones Culturales.
-
-### CAP-05: Gobernanza Regional y Liderazgo Político
-
-- **Descripción:** Ejercer el liderazgo político para convocar, articular y conducir gobernanzas complejas y multi-actor.
-- **Anclaje Regulatorio:** LOC GORE (Art. 2, 24).
+Este artefacto es la carta de navegación estratégica del GORE Ñuble. Define las "habilidades" fundamentales que la organización necesita para cumplir su misión, independientemente de la estructura de divisiones. Su propósito es guiar la inversión, priorizar la transformación y asegurar que cada esfuerzo contribuya directamente a la visión "Ñuble 250" y al mandato legal del GORE. La evaluación de **Madurez** (¿cuán bien lo hacemos?) y **Criticidad** (¿cuán importante es?) revela las brechas estratégicas donde la transformación digital generará el máximo valor.
 
 ---
 
-## B. Capacidades Habilitantes
+### 1. Capacidades Centrales (Misionales)
 
-_Potencian y hacen posible la ejecución de las capacidades misionales._
+*Estas son las capacidades que definen la misión principal del GORE y su impacto directo en el territorio y sus habitantes.*
 
-## B. Capacidades Habilitantes (Sección A se mantiene igual)
+| Capacidad | Nivel 1 | Nivel 2 | Madurez (1-4) | Criticidad (1-4) | Notas y Brechas Estratégicas |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **C.1** | **Planificación y Ordenamiento Territorial** | | **2 (En Desarrollo)** | **4 (Crítica)** | Brecha: Falta de un sistema integrado de inteligencia territorial (IDE Ñuble). Alta dependencia de análisis manuales. |
+| | C.1.1 | Diseño de Estrategia Regional de Desarrollo | | 2 (En Desarrollo) | 4 (Crítica) | Proceso participativo robusto, pero con baja capacidad para seguimiento basado en datos en tiempo real. |
+| | C.1.2 | Gestión de Instrumentos de Planificación | (PRI, PROT) | 2 (En Desarrollo) | 4 (Crítica) | Procesos lentos, poco digitalizados. |
+| | C.1.3 | Gobernanza Geoespacial (DS N°28) | | 1 (Emergente) | 4 (Crítica) | Rol de liderazgo regional no ejercido activamente. Datos geoespaciales fragmentados. |
+| **C.2** | **Gestión de la Inversión Regional** | | **1 (Emergente)** | **4 (Crítica)** | **BRECHA CRÍTICA:** Nuestro "core business" es un caos de silos, planillas y procesos manuales. Falta de trazabilidad y visión 360°. |
+| | C.2.1 | Formulación y Postulación de IPR | | 1 (Emergente) | 4 (Crítica) | Procesos heterogéneos y de baja calidad. Alta carga de retrabajo. |
+| | C.2.2 | Evaluación y Priorización de Cartera | | 2 (En Desarrollo) | 4 (Crítica) | Decisiones basadas en información fragmentada, no en un portafolio integrado. |
+| | C.2.3 | Ejecución y Seguimiento Físico-Financiero | | 1 (Emergente) | 4 (Crítica) | Seguimiento manual y reactivo. Imposibilidad de tener una visión en tiempo real del avance. |
+| | C.2.4 | Cierre, Rendición y Aprendizaje | | 1 (Emergente) | 3 (Alta) | Procesos de rendición lentos y propensos a errores. El aprendizaje no se captura ni se reutiliza. |
+| **C.3** | **Fomento Productivo y Competitividad** | | **2 (En Desarrollo)** | **4 (Crítica)** | Brecha: Falta de herramientas para medir impacto y coordinar el ecosistema de fomento. |
+| | C.3.1 | Diseño y Gestión de Instrumentos de Fomento | (FNDR, FRPD, FRIL) | 2 (En Desarrollo) | 4 (Crítica) | El asistente para el 8% FNDR es una isla de eficiencia. El resto del proceso es manual. |
+| | C.3.2 | Atracción de Inversiones y Alianzas | | 2 (En Desarrollo) | 3 (Alta) | Capacidades relacionales fuertes, pero sin una base de datos para la gestión proactiva. |
+| **C.4** | **Desarrollo Social y Humano** | | **2 (En Desarrollo)** | **4 (Crítica)** | Brecha: Dificultad para focalizar la inversión social y medir el impacto real en el bienestar. |
+| | C.4.1 | Asignación de Beneficios y Subsidios | | 2 (En Desarrollo) | 4 (Crítica) | Proceso de asignación con oportunidades de mejora en eficiencia y equidad. |
+| | C.4.2 | Articulación con Redes de Protección Social | | 2 (En Desarrollo) | 3 (Alta) | Coordinación con municipios y servicios públicos basada en relaciones personales, no en sistemas. |
 
-### CAP-06: Liderazgo en Transformación Digital e Innovación Pública
+### 2. Capacidades de Soporte (Habilitadoras)
 
-- **Descripción:** Utilizar estratégicamente la tecnología, los datos y las metodologías de la 4ª RI para acelerar el desarrollo regional.
-- **Anclaje Regulatorio (Overlay):**
-  - Ley 21.180 (Transformación Digital).
-  - **Proyecto de Ley de IA (Boletines 15.869-19 y 16.821-19):** Marco regulatorio para IA basado en riesgo y principios éticos. _(En trámite)_.
-  - Ley 19.880 (Bases de los Procedimientos Administrativos).
-  - Ley 20.285 (Transparencia).
-  - Marco TDE y Guías de la SGD.
+*Estas son las capacidades transversales que habilitan la ejecución de las capacidades misionales.*
 
-### CAP-07: Soporte Institucional y Excelencia Operacional
+| Capacidad | Nivel 1 | Nivel 2 | Madurez (1-4) | Criticidad (1-4) | Notas y Brechas Estratégicas |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **S.1** | **Gobernanza y Gestión de Datos** | | **1 (Emergente)** | **4 (Crítica)** | **BRECHA HABILITANTE CRÍTICA:** No existe una gobernanza formal. Los datos no son tratados como un activo estratégico. |
+| **S.2** | **Gobernanza y Gestión Tecnológica** | | **1 (Emergente)** | **4 (Crítica)** | Proceso TDE "descabezado". Infraestructura obsoleta. Adopción de soluciones tácticas (Gesdoc) que generan deuda técnica. |
+| **S.3** | **Gestión Administrativa y Financiera** | | **2 (En Desarrollo)** | **3 (Alta)** | Procesos internos (RRHH, finanzas, compras) con baja digitalización y automatización. |
+| **S.4** | **Asesoría Jurídica y Cumplimiento** | | **2 (En Desarrollo)**| **4 (Crítica)** | Capacidad reactiva. Alta carga manual en revisión de actos administrativos. Riesgo de incumplimiento normativo (TDE, Ciberseguridad, Datos). |
+| **S.5** | **Comunicación Estratégica y Relación Ciudadana** | | **2 (En Desarrollo)**| **3 (Alta)** | Canales digitales fragmentados. Experiencia ciudadana inconsistente. El Chatbot es un piloto exitoso pero aislado. |
 
-- **Descripción:** Asegurar que la maquinaria interna del GORE funcione de manera eficiente, proba y resiliente.
-- **Anclaje Regulatorio:** Ley 19.886 (Compras), Ley 18.834 (Estatuto Adm.), Ley 19.880 (Proc. Adm.), Ley 20.880 (Probidad), Normativa CGR.
+---
+**Escala de Madurez:** 1 (Emergente), 2 (En Desarrollo), 3 (Madura), 4 (Optimizada)
+**Escala de Criticidad:** 1 (Baja), 2 (Media), 3 (Alta), 4 (Crítica)
