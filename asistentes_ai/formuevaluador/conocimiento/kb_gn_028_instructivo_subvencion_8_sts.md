@@ -1,0 +1,1 @@
+/Users/felixsanhueza/plan-td-gore-nuble/01_entidades_de_valor/ev-000-conocimiento/dominios/gn/kb_gn_028_instructivo_subvencion_8_sts.md

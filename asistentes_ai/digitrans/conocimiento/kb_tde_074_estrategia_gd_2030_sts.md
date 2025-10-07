@@ -1,0 +1,1 @@
+/Users/felixsanhueza/plan-td-gore-nuble/01_entidades_de_valor/ev-000-conocimiento/dominios/tde/kb_tde_074_estrategia_gd_2030_sts.md
