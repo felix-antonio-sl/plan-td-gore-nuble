@@ -1,1 +1,0 @@
-/Users/felixsanhueza/plan-td-gore-nuble/01_entidades_de_valor/ev-000-conocimiento/dominios/tde/kb_tde_071_guia_institucionalidad_sts.md

@@ -1,1 +1,0 @@
-/Users/felixsanhueza/plan-td-gore-nuble/01_entidades_de_valor/ev-000-conocimiento/dominios/gn/Kb_gn_090_gestion_informacion_geoespacial_sts.md

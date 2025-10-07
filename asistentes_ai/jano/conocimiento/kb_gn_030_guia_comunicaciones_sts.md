@@ -1,1 +1,0 @@
-/Users/felixsanhueza/plan-td-gore-nuble/01_entidades_de_valor/ev-000-conocimiento/dominios/gn/kb_gn_030_guia_comunicaciones_sts.md
