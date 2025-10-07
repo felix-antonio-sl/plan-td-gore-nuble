@@ -13,7 +13,7 @@
 
 **Lectura Obligatoria:**
 
-1. [**Documento Principal**](./plan_td_gore_nuble_2026-2028.md)
+1. [**Documento Principal**](plan_td_gore_nuble_2026-2028_sts.md)
    - **Parte 0:** Mesa de Análisis Técnico (fundamentos de las decisiones)
    - **Parte I:** Resumen Ejecutivo (10 páginas, visión estratégica y decisión solicitada)
 

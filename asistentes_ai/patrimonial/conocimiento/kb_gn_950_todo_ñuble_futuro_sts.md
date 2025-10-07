@@ -1,0 +1,1 @@
+/Users/felixsanhueza/plan-td-gore-nuble/01_entidades_de_valor/ev-000-conocimiento/dominios/gn/kb_gn_950_todo_ñuble_futuro_sts.md
